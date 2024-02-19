@@ -1,5 +1,10 @@
-# travel_insurance_dashboard
+# Travel Insurance Prediction Power BI Dashboard
+
+![Screenshot 2024-02-16 223558](https://github.com/Rahulbaudh/travel_insurance_dashboard/assets/133002900/e76eb0c2-80ef-4238-88f2-767441802fb4)
+![Screenshot 2024-02-16 223634](https://github.com/Rahulbaudh/travel_insurance_dashboard/assets/133002900/7d0f84bd-15da-4612-9a5f-688b887b2d2c)
+
 Introduction:
+
 In an era where travel is increasingly accessible and prevalent, the importance of travel insurance cannot be overstated. Leveraging data-driven insights can significantly improve the accuracy of predicting travel insurance needs, allowing companies to tailor their offerings and services to meet customer demands effectively. To facilitate this process, we've developed a comprehensive Power BI dashboard that enables robust analysis and forecasting in the realm of travel insurance.
 
 Key Features:
